@@ -1,2 +1,2 @@
 # Android
-An app for teacher is used to call name
+An app be used to call name for teacher.
